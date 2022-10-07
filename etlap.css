@@ -1,0 +1,31 @@
+.forgat {    
+        transform:rotate(-90deg);
+}
+th {
+    height: 2cm;
+}
+table > td > table > td {
+    width: 4cm;
+    border: 1px solid black;
+    font-size: larger;
+}
+table {
+    border: 2px solid black;
+    margin:auto;
+}
+img {
+    width: 10cm;
+    height: 6.66cm;
+}
+#leves{
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
+#foetel {
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
+#desszert{
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
